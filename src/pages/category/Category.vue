@@ -65,6 +65,10 @@
            <img src="~assets/img/shop.svg" alt="">
            <div>衣服</div>
        </li>
+       <li class="yifu">
+           <img src="~assets/img/shop.svg" alt="">
+           <div>衣服</div>
+       </li>
    </ul>
    </div>
    <goods-list :goods="recommends"/>
